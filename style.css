@@ -1,0 +1,99 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.5em;
+}
+h1{
+  margin: 50px auto 0 auto;
+  color: #297F87;
+}
+h2{
+  color: #297F87;
+}
+h3{
+  color: #297F87;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 10px auto;
+}
+.top-container{
+  background-color:#CDF0EA;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #F9F9F9;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.bottom-container{
+  background-color: #F9F9F9;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.profile-img{
+  margin: 40px auto 0 auto;
+  width: 10%;
+}
+.coding-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.selfier {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-message{
+  width: 40%;
+  margin: auto;
+}
+.btn{
+  text-decoration: none;
+  color: white;
+  background-color: #297F87;
+  border-radius: 5px;
+  padding: 10px;
+}
+.bottom-container {
+  background-color: #CDF0EA;
+  padding: 50px 0 20px;
+  color: #297F87;
+}
+a{
+  text-decoration: none;
+  color: #297F87;
+  margin: 10px 30px;
+}
+a:hover{
+  color: #DF2E2E;
+}
+.copyright{
+  font-size: 0.8em;
+  padding-top: 20px;
+}
